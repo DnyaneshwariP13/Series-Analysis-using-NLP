@@ -78,3 +78,5 @@ class ThemeClasssifier():
             df.to_csv(save_path,index=False)
 
         return df
+    
+    #friendship,hope,sacrifice,battle,self development,betrayal,love,dialogue
